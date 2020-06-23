@@ -1,0 +1,72 @@
+<div class="container">
+	 	  <div class="row">
+			 <div class="col-xs-12">
+			      <div class="area-heading area-heading-style-two text-center">
+	 			         <h2 class="area-title">Happy Clients</h2>
+	 			         <div class="separator"></div>
+   	 		       </div>
+			 </div>
+	      </div>
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <div class=" testimonial-slide one-item">
+                            <div id="clients-testimonial" class="swiper-wrapper owl-carousel">
+                                <div class="swiper-slide">
+                                    <div class="testimonial-item style-4">
+                                        <div class="testimonial-thumb">
+                          <!-- image -->
+                                            <img src="image/user/dummy-image.jpg" alt="">
+                                        </div>
+                                        <div class="review-txt">
+                                            <span>“</span>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                            tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <span>”</span>
+                                        </div>
+                                        <div class="reviewer-details">
+                                            <h3 class="reviewer-name"> - John Doe</h3>
+                                            <h4 class="reviewer-deg">Google Inc.</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="testimonial-item style-4">
+                                        <div class="testimonial-thumb">
+                                 <!-- image -->
+                                            <img src="image/user/dummy-image.jpg" alt="">
+                                        </div>
+                                        <div class="review-txt">
+                                            <span>“</span>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                            tempor incididunt ut labore et dolore magna aliqua..</p>
+                                            <span>”</span>
+                                        </div>
+                                        <div class="reviewer-details">
+                                            <h3 class="reviewer-name"> - John Doe</h3>
+                                            <h4 class="reviewer-deg">Google Inc.</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="testimonial-item style-4">
+                                        <div class="testimonial-thumb">
+                          <!-- image -->
+                                            <img src="image/user/dummy-image.jpg" alt="">
+                                        </div>
+                                        <div class="review-txt">
+                                            <span>“</span>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                            tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <span>”</span>
+                                        </div>
+                                        <div class="reviewer-details">
+                                            <h3 class="reviewer-name"> - John Doe</h3>
+                                            <h4 class="reviewer-deg">Google Inc.</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+       </div>
