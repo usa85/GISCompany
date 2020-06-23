@@ -2062,4 +2062,29 @@ background: #353131c7;
         -webkit-transition: all 0.3s 1s ease-out;  
                 transition: all 0.3s 1s ease-out;
     }
+
+    /*------------------
+    17. Team leader style
+    ---------------------*/
+    .class-header-title {
+      text-align: center;
+      font-size: 2rem;
+      color: black;
+      padding-bottom: 2rem;
+    }
+
+    .class-header-title img{
+      padding-bottom: 2rem;
+      width:170px;
+      height:300px;
+    }
+    .card-body{
+      text-align: justify;
+      color: black;
+    }
+    .card-footer{
+      text-align: center;
+      color: black;
+      padding-top: 2rem;
+    }
     
