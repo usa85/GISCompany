@@ -415,7 +415,7 @@ label {
 	z-index: 0;
 }
 .service-bg{
-	background: rgba(0,0,0,0) url("../image/banner/dummy-image.jpg"); /*Change the image here*/
+	background: rgba(0,0,0,0) url("../image/banner/dummy-image2b.jpg"); /*Change the image here*/
 	background-attachment: fixed;
 	background-clip: initial;
 	background-color: rgba(255,255,255,0);
@@ -427,7 +427,7 @@ label {
 	z-index: 0;
 }
 .counter-bg{
-	background: rgba(0,0,0,0) url("../image/banner/dummy-image.jpg"); /*Change the image here*/
+	background: rgba(0,0,0,0) url("../image/banner/dummy-image2c.jpg"); /*Change the image here*/
 	background-attachment: fixed;
 	background-clip: initial;
 	background-color: rgba(255,255,255,0);
@@ -439,7 +439,7 @@ label {
 	z-index: 0;
 }
 .blog-bg{
-  background: rgba(0,0,0,0) url("../image/blog/dummy-image.jpg"); /*Change the image here*/
+  background: rgba(0,0,0,0) url("../image/blog/dummy-image6.jpg"); /*Change the image here*/
   background-attachment: fixed;
   background-clip: initial;
   background-color: rgba(255,255,255,0);
